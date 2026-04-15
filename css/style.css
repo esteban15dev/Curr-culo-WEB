@@ -169,5 +169,8 @@ progress{
     display: inline-block; /* Agrega una linea abajo junto border botom */
     padding-bottom: 5px;
 }
-
+.formacion{
+    margin: 1rem 0 0.5rem;
+    color: #2c3e50;
+}
 
